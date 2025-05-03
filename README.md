@@ -1,33 +1,42 @@
-# Cartify - E-Commerce Website
+# 🛒 Cartify - E-Commerce Website
 
-**🌟 Overview** - 
-Cartify is a responsive e-commerce website inspired by Amazon, built using HTML, CSS, and JavaScript. This project enables users to browse products, add them to the cart, and view real-time updates for both the order and payment summary.
+## 🌟 Overview
 
-**Features**
-Responsive Design: The website is fully responsive and optimized for both desktop and mobile devices.
+Cartify is a responsive and interactive e-commerce website inspired by Amazon. Built using **HTML**, **CSS**, and **JavaScript**, this project allows users to browse a range of products, add them to their shopping cart, and view real-time updates to both their order and payment summaries.
 
-Dynamic Product Listing: A product listing page that showcases multiple items with details such as name, price, and image.
+---
 
-Add-to-Cart Functionality: Users can add items to their cart, and the cart updates in real-time.
+## ✨ Features
 
-Order Summary: Displays the total items in the cart and the cost breakdown.
+- **Responsive Design**  
+  Optimized for all screen sizes including desktops, tablets, and mobile devices.
 
-Payment Summary: Calculates the final total, including applicable taxes and shipping charges.
+- **Dynamic Product Listing**  
+  Showcases multiple products with their name, price, and image in a clean layout.
 
-**Technologies Used**
-HTML: Used for creating the structure of the website.
+- **Add-to-Cart Functionality**  
+  Users can add items to their cart, with the cart updating instantly as items are added or removed.
 
-CSS: Used for styling the website and making it responsive.
+- **Order Summary**  
+  Displays total items added to the cart with a cost breakdown for easy tracking.
 
-JavaScript: Used for dynamic functionality, such as adding items to the cart, updating the cart in real-time, and calculating the order and payment summaries.
+- **Payment Summary**  
+  Calculates the final payable amount, including estimated tax and shipping charges.
 
-**Getting Started
-Prerequisites**
-Any modern web browser (Chrome, Firefox, etc.)
+---
 
-**Usage**
-Browse the product listing page and click on the "Add to Cart" button next to any product to add it to the cart.
+## 🔧 Technologies Used
 
-The cart will automatically update with the added product and show the current count of items and total price.
+- **HTML**: Markup language for building the website structure.  
+- **CSS**: Styling and layout for responsive design.  
+- **JavaScript**: Adds dynamic functionality such as cart updates, order summary calculations, and DOM manipulation.
 
-You can view the order summary and payment summary in the designated sections of the page.
+---
+
+## 🚀 Getting Started
+
+### 🔗 Prerequisites
+
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+
+
