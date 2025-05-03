@@ -39,7 +39,7 @@ Cartify is a responsive and interactive e-commerce website inspired by Amazon. B
 
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 
