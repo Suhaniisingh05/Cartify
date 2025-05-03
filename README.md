@@ -1,6 +1,6 @@
 # Cartify - E-Commerce Website
 
-🌟 Overview 
+**🌟 Overview** - 
 Cartify is a responsive e-commerce website inspired by Amazon, built using HTML, CSS, and JavaScript. This project enables users to browse products, add them to the cart, and view real-time updates for both the order and payment summary.
 
 **Features**
